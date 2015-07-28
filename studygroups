@@ -13,7 +13,7 @@
       <ul id="nav_left">
         <a href="index.html"><li>home</li></a>
         <a href="curriculum.html"><li>curriculum</li></a>
-        <a href="study_groups.html"><li class="nav_this_page">study group</li></a>
+        <a href="studygroups.html"><li class="nav_this_page">study group</li></a>
     </ul>
       
       <ul id="nav_right">
